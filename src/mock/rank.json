@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "typeName": "热卖排行",
+        "productList": [
+            {
+                "id": 11,
+                "name": "农心（NONGSHIM）方便面经典多口味8连包 辛拉面辣白菜拉面多连包 8口味 经典八连包",
+                "imgUrl": "https://img12.360buyimg.com/seckillcms/s140x140_jfs/t1/112674/1/39503/144543/64af92b0Fdd48decc/b471ad6197a21ff1.jpg.avif",
+                "price": 28.8
+            },
+            {
+                "id": 12,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img12.360buyimg.com/jdcms/s300x300_jfs/t1/219077/35/23136/160290/64c9f231Fdbcded04/c457dd1f10680144.jpg.avif",
+                "price": 100.98
+            },
+            {
+                "id": 13,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img20.360buyimg.com/jdcms/s300x300_jfs/t1/104454/5/23223/108215/6422b35dFd8a2c680/4d280381f5555bbc.jpg.avif",
+                "price": 100.98
+            },
+            {
+                "id": 14,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img10.360buyimg.com/jdcms/s300x300_jfs/t1/145762/9/36864/323307/64992ba7F5c81927a/228af616350f0f74.jpg.avif",
+                "price": 100.98
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "typeName": "特价排行",
+        "productList": [
+            {
+                "id": 21,
+                "name": "千柏山 云南正宗黑糖500g大姨妈经期产妇月子手工老红糖块纯甘蔗熬制 云南黑糖500g",
+                "imgUrl": "https://img11.360buyimg.com/seckillcms/s140x140_jfs/t1/117890/25/37901/164674/64aeabddF5db4d94d/949501067d0c385b.jpg.avif",
+                "price": 11.8
+            },
+            {
+                "id": 22,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img30.360buyimg.com/jdcms/s300x300_jfs/t1/205715/36/26864/72706/64c993d5F97c7a75d/d72d87b110ba3d76.jpg.avif",
+                "price": 100.98
+            },
+            {
+                "id": 23,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img10.360buyimg.com/jdcms/s300x300_jfs/t1/199910/13/39284/77666/64b6623dFa142bd74/2995c7d6ad26ac72.jpg.avif",
+                "price": 100.98
+            },
+            {
+                "id": 24,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img13.360buyimg.com/jdcms/s300x300_jfs/t1/35837/21/17265/67222/630495c4E4fcd2e3f/1d9f2e14933ff3f7.jpg.avif",
+                "price": 100.98
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "typeName": "新品排行",
+        "productList": [
+            {
+                "id": 31,
+                "name": "千丝板栗味馅饼整箱320g办公室点心休闲早餐糕点小零食品年货 板栗味馅饼320g【约8个】",
+                "imgUrl": "https://img12.360buyimg.com/seckillcms/s140x140_jfs/t1/108157/15/41592/119490/64c6303eF0bebfe72/10fed046bebf8946.jpg.avif",
+                "price": 6
+            },
+            {
+                "id": 32,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img30.360buyimg.com/jdcms/s300x300_jfs/t1/68518/21/23290/15959/640fd960Fce660c26/fc9bc81498127283.jpg.avif",
+                "price": 100.98
+            },
+            {
+                "id": 33,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img14.360buyimg.com/jdcms/s300x300_jfs/t1/202130/15/33558/29794/645c4ffbF45a2288d/b22b0862df8dbc82.jpg.avif",
+                "price": 100.98
+            },
+            {
+                "id": 34,
+                "name": "【官网价直降1100】Apple iPhone 8 Plus 256GB 银色 移动联通电信4G手机",
+                "imgUrl": "https://img11.360buyimg.com/jdcms/s300x300_jfs/t1/66877/21/19849/86508/62b1c1cfEc9cf6cbc/6b3f40d66caa1e07.jpg.avif",
+                "price": 100.98
+            }
+        ]
+    }
+]
